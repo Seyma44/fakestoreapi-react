@@ -1,3 +1,7 @@
+# Tailwind React Fakestoreapi
+
+![Studio_Project (8)](https://user-images.githubusercontent.com/3766249/232589402-8f916fe2-cc37-46de-9e6a-e17c590d3cd5.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
